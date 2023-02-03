@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="First Entry" android:id="@+id/first" android:icon="@drawable/head_android"/>
+    <item android:title="Second Entry" android:id="@+id/second" android:icon="@drawable/head_android"/>
+    <item android:title="Third Entry" android:id="@+id/third" android:icon="@drawable/head_android"/>
+    <item android:title="Fourth Entry" android:id="@+id/fourth" android:icon="@drawable/head_android"/>
+    <item android:title="Fifth Entry" android:id="@+id/fifth" android:icon="@drawable/head_android"/>
+
+</menu>
